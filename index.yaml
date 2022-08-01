@@ -3,12 +3,12 @@ entries:
   nginx-webserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-01T12:32:44.296363+05:30"
+    created: "2022-08-01T15:56:27.438192+05:30"
     description: A Helm chart for Kubernetes
-    digest: 5a950c8dcc245dc220278022453d004fc0b1262a537be322996237ce5719cb41
+    digest: 204b887a4f98813afa5d6381344c0d1ea3bb2ad6b85db281f3f315f2a4562ca4
     name: nginx-webserver
     type: application
     urls:
-    - https://shribalaji12.github.io/nginx-webserver-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-08-01T12:32:44.295329+05:30"
+    - https://shribalaji12.github.io/nginx-webserver-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-08-01T15:56:27.437523+05:30"
